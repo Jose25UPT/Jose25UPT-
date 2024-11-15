@@ -1,4 +1,15 @@
 # Jose25UPT
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
+
 <!-- HEADER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
